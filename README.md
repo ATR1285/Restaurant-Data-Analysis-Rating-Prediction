@@ -1,6 +1,5 @@
 Restaurant Data Analysis & Rating Prediction
 
-This project was completed as part of the Data Science Internship at Cognifyz Technologies.
 
 Contents:
 - Dataset used for analysis
